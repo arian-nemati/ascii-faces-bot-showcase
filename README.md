@@ -9,11 +9,10 @@ and text emoticons with a clean and user-friendly interface.
 
 ## 📸 Screenshots
 
-<p align="center">
-    <img src="assets/IMG_6765.JPG" width="30%">
-    <img src="assets/IMG_6766.JPG" width="30%">
-    <img src="assets/IMG_6767.JPG" width="30%">
-</p>
+
+<img src="assets/IMG_6765.JPG">
+<img src="assets/IMG_6766.JPG">
+<img src="assets/IMG_6767.JPG">
 
 ## ✨ Features
 
