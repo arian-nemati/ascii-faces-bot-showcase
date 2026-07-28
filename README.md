@@ -19,6 +19,7 @@ and text emoticons with a clean and user-friendly interface.
 - Clean inline keyboard interface.
 - Fully asynchronous.
 - Easy to extend with new faces.
+- Admin Panel.
 
 ## 🛠️ Tech Stack
 
