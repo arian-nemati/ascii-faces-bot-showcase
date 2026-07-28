@@ -5,14 +5,13 @@ and text emoticons with a clean and user-friendly interface.
 
 ## 🎥 Demo
 
-<video src="assets/ascii.mp4" controls width="33%">
-</video>
+![demo vid](https://github.com/arian-nemati/ascii-faces-bot-showcase/blob/main/assets/ascii.mp4)
 
 ## 📸 Screenshots
 
 <div align="center">
-    <img src="assets/IMG_6765.JPG" width="33%">
-    <img src="assets/IMG_6766.JPG" width="33%">
+    <img src="assets/IMG_6765.JPG" width="33%"><br>
+    <img src="assets/IMG_6766.JPG" width="33%"><br>
     <img src="assets/IMG_6767.JPG" width="33%">
 </div>
 
