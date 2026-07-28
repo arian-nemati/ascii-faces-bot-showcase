@@ -3,10 +3,6 @@
 A simple and lightweight Telegram bot that provides a collection of ASCII faces 
 and text emoticons with a clean and user-friendly interface.
 
-## 🎥 Demo
-
-https://github.com/arian-nemati/ascii-faces-bot-showcase/blob/main/assets/ascii.mp4
-
 ## 📸 Screenshots
 
 <div align="center">
