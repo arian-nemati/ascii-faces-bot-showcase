@@ -5,7 +5,7 @@ and text emoticons with a clean and user-friendly interface.
 
 ## 🎥 Demo
 
-![demo vid](https://github.com/arian-nemati/ascii-faces-bot-showcase/blob/main/assets/ascii.mp4)
+https://github.com/arian-nemati/ascii-faces-bot-showcase/blob/main/assets/ascii.mp4
 
 ## 📸 Screenshots
 
