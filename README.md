@@ -25,3 +25,10 @@ and text emoticons with a clean and user-friendly interface.
 
 - Python 3
 - python-telegram-bot
+
+## 📬 Contact
+
+Interested in working together or have a question about this project? Feel free to reach out.
+
+- Telegram: https://t.me/CodeWithArian
+- Email: ariian.nematii@gmail.com
